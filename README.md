@@ -1,6 +1,6 @@
-# Testimonials Section Project using React.js
+# Testimonials Section of Portfolio using React.js
 
-![Project Banner](project-banner.png)
+![Gallary Project ](./assets/image_2.png?raw=true " Gallary Project ")
 
 ## Project Overview
 
@@ -11,6 +11,9 @@ This project is a React.js application that showcases a Testimonials section, al
 - Display user testimonials/reviews.
 - Navigation buttons to scroll through testimonials.
 - "Surprise Me" button to display a random testimonial.
+
+## Screenshot  of other page also
+![Gallary Project ](./assets/image_1.png?raw=true " Gallary Project ")
 
 ## Technologies Used
 
